@@ -1,0 +1,10 @@
+.b-menu li{
+    list-style: outside none none;
+    font-size: 16px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.b-menu li a{
+    color: #333;
+}
